@@ -1,8 +1,7 @@
 
 /************************************************************
  * Mustafa Algun
- * EE442 Homework 2- User Level Thread Scheduling
- * Due Date: 28 May 2021
+ * User Level Thread Scheduling
 -----------------------
 
 SRTF_scheduler implementation reference: https://github.com/Diiru/CPU_Scheduler_SRTF_IIC2333/blob/master/src/osrs/main.c
